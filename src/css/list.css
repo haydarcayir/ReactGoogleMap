@@ -1,0 +1,11 @@
+#listdiv {
+    text-align: center;
+    line-height: 1.5;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+#listdiv:hover {
+    background:  #fab800;
+}

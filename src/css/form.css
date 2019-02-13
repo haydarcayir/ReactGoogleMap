@@ -1,0 +1,13 @@
+.placeform {
+    width: 80%;
+    margin: 10px auto 5px auto;
+    background-color: rgba(245, 155, 0, 0.6);
+    height: auto;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+::placeholder {
+    color:rgba(205, 155, 255, 0.8);
+    font-size: 1.15em;
+  }
